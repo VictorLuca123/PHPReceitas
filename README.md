@@ -1,3 +1,4 @@
 # PHPReceitas
-Este projeto foi desenvolvido como parte das atividades da disciplina de Desenvolvimento de Sistemas utilizando PHP do curso de SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS, com o objetivo de praticar conceitos de PHP, MVC e desenvolvimento web.
-Este é um sistema web desenvolvido em PHP com o padrão arquitetural MVC (Model-View-Controller), que permite aos usuários se cadastrarem, fazerem login, criar, editar e salvar receitas culinárias. O projeto também conta com funcionalidades de recuperação de senha, validação de dados e sistema de sessões.
+  Este projeto foi desenvolvido como parte das atividades da disciplina de Desenvolvimento de Sistemas utilizando PHP do curso de SUPERIOR DE TECNOLOGIA EM ANÁLISE E DESENVOLVIMENTO DE SISTEMAS, com o objetivo de praticar conceitos de PHP, MVC e desenvolvimento web.
+  Este é um sistema web desenvolvido em PHP com o padrão arquitetural MVC (Model-View-Controller), que permite aos usuários se cadastrarem, fazerem login, criar, editar e salvar receitas culinárias. O projeto também conta com funcionalidades de recuperação de senha, validação de dados e sistema de sessões.
+  Nome dos autores do projeto no github: joabe7033,IamEddo e VictorLuca123.
